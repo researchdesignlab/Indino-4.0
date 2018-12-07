@@ -1,5 +1,4 @@
 # Indino-4.0
-# Indino-4.0
 
 ![indino](https://user-images.githubusercontent.com/43989241/49642241-7dc56080-fa38-11e8-8bc4-6e60c9f33fcc.png)
 
